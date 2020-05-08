@@ -7,7 +7,7 @@ print(" FFMPEG installed either on PATH or python directory")
 
 inkl = input("Paste your youtube URL(right click): ")
 
-test = input("Input 1 for MP4/WEBM | Input 2 for MP3(FFMPEG CONVERT)")
+test = input("Input 1 for MP4/WEBM | Input 2 for MP3(FFMPEG CONVERT)\n INPUT:")
 if test == "1":
     ydl_opts = {}
 if test == "2":
