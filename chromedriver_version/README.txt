@@ -1,0 +1,1 @@
+Requires Selenium python library
